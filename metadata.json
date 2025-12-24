@@ -1,0 +1,8 @@
+{
+  "name": "Vitreous Stratum: AI Architectural Nexus",
+  "description": "A high-end architectural design platform featuring 3D glass-morphism UI, AI-driven spatial conceptualization, and generative architectural visualization powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
